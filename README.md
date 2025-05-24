@@ -40,17 +40,15 @@
 </p>
 
 
-<h2>Test Artifacts</h2>
-<ul>
-  <li><a href="https://github.com/osukhorukova/web_testing">Webshop Testing</a> – exploratory and functional testing</li>
-  <li><a href="https://github.com/osukhorukova/api_testing">API Testing</a> – REST and SOAP via Postman</li>
-  <li><a href="https://github.com/osukhorukova/sql">MySQL</a> – queries and DB validation scripts</li>
-  <li><a href="https://github.com/osukhorukova/mongodb">MongoDB</a> – NoSQL queries and exercises</li>
-  <li><a href="https://github.com/osukhorukova/mobile_testing">Android App Testing</a> – manual test cases and bug reports</li>
-  <li><a href="https://github.com/osukhorukova/charlesproxy">Charles Proxy</a> – mock responses and network inspection</li>
-  <li><a href="https://github.com/osukhorukova/bash">Bash</a> – scripts for QA tasks</li>
-  <li><a href="https://github.com/osukhorukova/git">Git</a> – basic version control commands</li>
-</ul>
+---
+## 📝 Тестовые Артефакты
+
+Здесь представлены примеры тестовых артефактов и практических задач, над которыми я работал:
+
+* [**Тестирование Веб-приложений**](https://github.com/) – исследовательское и функциональное тестирование. (**ссылка на папку с тест кейсами, баг репортами, требованиями, чек листами**)
+* [**Тестирование API**](https://github.com/) – взаимодействие с REST и SOAP через Postman.(**ссылка на коллекцию постман**)
+* [**MySQL**](https://github.com/) – запросы и скрипты для валидации баз данных.(**ссылка на доку с запросами в ворде можно с картинками**)
+
 ---
 
 <h3 align="center">📫 Готов пообщаться </h3>
