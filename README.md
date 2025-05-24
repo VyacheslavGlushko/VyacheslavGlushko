@@ -57,13 +57,15 @@
 * [**SQL-запросы для валидации данных**](https://github.com/VyacheslavGlushko/sql-queries-for-qa)
     * **Описание:** Примеры SQL-запросов, используемых для проверки целостности и корректности данных в базах данных (MySQL) в процессе тестирования. Включает запросы для выборки, фильтрации и агрегации данных.
 ---
-<h3 align="center">📫 Готов пообщаться </h3>
+<h3 align="center">📫 Готов пообщаться</h3>
 <p align="center">
-  <a href="https://t.me/unclemaestro"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/></a>
-  <a href="mailto:unclemaestro11@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/></a>
+  <a href="https://t.me/unclemaestro" target="_blank">
+    <img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="Telegram"/>
+  </a>
+  <a href="mailto:unclemaestro11@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail"/>
+  </a>
 </p>
----
-
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=VyacheslavGlushko)
